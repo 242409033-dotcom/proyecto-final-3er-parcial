@@ -6,7 +6,7 @@ Breve descripción de qué trata el proyecto, cuál es su objetivo principal y q
 ## Integrantes del Equipo
 * **[Sonia]** - [1] - [@Jax trans](https://github.com/242409033-dotcom)
 * **[Marissa]** - [2] - [@marissa-frl](https://github.com/marissa-frl)
-* **[Karen]** - [3] - [@ttrw](https://github.com/usuario3)
+* **[Karen]** - [3] - [@ttrw](https://github.com/242409050-hue)
 
 ## Tecnologías Utilizadas
 * [Lenguaje o tecnología 1, ej. HTML/CSS]
