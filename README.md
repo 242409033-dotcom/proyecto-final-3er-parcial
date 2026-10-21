@@ -1,7 +1,7 @@
 # [proyecto-final-3er-parcial]
 
 ## Descripción
-Breve descripción de qué trata el proyecto, cuál es su objetivo principal y qué problema resuelve. Este repositorio contiene el producto final del 3er parcial para la materia de [].
+este codigo va a ser utilizado para mejorar la edición de información de la escuela miau.
 
 ## Integrantes del Equipo
 * **[Sonia]** - [1] - [@Jax trans](https://github.com/242409033-dotcom)
@@ -18,4 +18,5 @@ Pasos exactos para que el profesor pueda probar el proyecto en su computadora:
 
 1. Clonar este repositorio: 
    ```bash
-   git clone [https://github.com/242409033-dotcom/proyecto-final-3er-parcial/tree/main]
+   git clone [
+   https://github.com/242409033-dotcom/proyecto-final-3er-parcial/tree/main]
