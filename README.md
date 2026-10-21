@@ -1,7 +1,7 @@
 # [proyecto-final-3er-parcial]
 
 ## Descripción
-Breve descripción de qué trata el proyecto, cuál es su objetivo principal y qué problema resuelve. Este repositorio contiene el producto final del 3er parcial para la materia de [].
+nya ichi ni san nya arigato.
 
 ## Integrantes del Equipo
 * **[Sonia]** - [1] - [@Jax trans](https://github.com/242409033-dotcom)
