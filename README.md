@@ -14,7 +14,7 @@ Breve descripción de qué trata el proyecto, cuál es su objetivo principal y q
 * [Base de datos o herramienta extra, ej. MySQL]
 
 ## Instrucciones de Instalación y Ejecución
-Pasos exactos para que el profesor pueda probar el proyecto en su computadora:
+Pasos exactos para que el profesor pueda probar el proyecto en su computadora: para poder usar este codigo tienes q tener istalado en tu compiutadora un lenguaje de programacion 
 
 1. Clonar este repositorio: 
    ```bash
