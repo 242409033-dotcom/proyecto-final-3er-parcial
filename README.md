@@ -7,7 +7,7 @@ nya ichi ni san nya arigato.
 * **[Sonia]** - [1] - [@Jax trans](https://github.com/242409033-dotcom)
 * **[Marissa]** - [2] - [@marissa-frl](https://github.com/marissa-frl)
 * **[Karen]** - [3] - [@ttrw](https://github.com/242409050-hue)
-* **[Cuahutemoc]** - [4] - [@ttrw](https://github.com/242409201-hue)
+* **[Cuahutemoc]** - [4] - [@ttrw](https://github.com/242409201-art)
 
 ## Tecnologías Utilizadas
 * [Lenguaje o tecnología 1, ej. HTML/CSS]
