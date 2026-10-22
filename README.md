@@ -10,9 +10,9 @@ nya ichi ni san nya arigato.
 * **[Cuahutemoc]** - [4] - [@ttrw](https://github.com/242409201-art)
 
 ## Tecnologías Utilizadas
-* [Lenguaje o tecnología 1, ej. HTML/CSS]
-* [Lenguaje o tecnología 2, ej. JavaScript]
-* [Base de datos o herramienta extra, ej. MySQL]
+* ["Lenguaje o tecnología 1", ej. HTML/CSS]
+* ["Lenguaje" o "tecnología 2", ej. JavaScript]
+* ["Base de datos" o "herramienta extra", ej. MySQL]
 
 ## Instrucciones de Instalación y Ejecución
 Pasos exactos para que el profesor pueda probar el proyecto en su computadora:
